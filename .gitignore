@@ -1,0 +1,9 @@
+# Ignore database files
+*.db
+
+# Ignore Python bytecode
+*.pyc
+__pycache__/
+
+# Ignore environment files
+.env
